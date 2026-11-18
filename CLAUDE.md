@@ -28,5 +28,6 @@
 - Every subject starts with this application's stamp, `INF:`, and a space.
 - A host change is a delivery of this application, route `Other`, numbered by
   date; [6.3.4](docs/6.3.4-hosts.md#making-a-host-change) says how it is made.
-- Every host step is the owner's to run, and no address of a host goes in a
-  file: the repositories are public.
+- A host step that changes a host is the owner's to run; a read either may
+  make, Claude by default (the programme's rule on production). No address
+  of a host goes in a file: the repositories are public.
